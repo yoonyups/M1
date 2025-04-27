@@ -1,0 +1,14 @@
+[1020] [overlap]. | 1020-0.jpg |  |    |    |    |    |    |  a  |  $$\;  \frac{1}{3}$$ | 999.mp3  | $$\;  \frac{1}{3}$$, $$\;  a^2 $$  | 3 | 1020-1.jpg | 1020-2.jpg | 1020-3.jpg | 1020-a.jpg  | 1020-3.jpg    
+[1020] [overlap]. | 1020-0.jpg |  |  1  |   2 | 3   |  4  |  5  |  a  |  $$\;  \frac{1}{3}$$ |   |   | 3 | 1020-1.jpg | 1020-2.jpg | 1020-3.jpg | 1020-a.jpg  
+
+
+ 
+[1020] [overlap]. | 1020-0.jpg | www |    |    |    |    |    |  a  |  $$\;  \frac{1}{3}$$ | mp3  | morph  | 3 | 1020-1.jpg | 1020-2.jpg | 1020-3.jpg | 1020-a.jpg   
+
+
+
+"$$ \blacktriangleright $$", "$$ \frac{kafka}{} $$", "$$ \frac{카프카}{}= $$", "$$ \frac{카프카}$$"
+\frac{1}{a} +\frac{1}{b}  =   \frac{\color{red} b}{a \color{red} b} +\frac{\color{red} a}{\color{red}a  \color{black}b}  =\frac{b+a}{ab} =\frac{a+b}{ab} 
+
+
+
